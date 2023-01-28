@@ -1,0 +1,14 @@
+{
+  "customDns": [
+    {
+      "name": "mydomain.com",
+      "address": "192.168.1.1"
+    }
+  ],
+  "customCname": [
+    {
+      "name": "sub.mydomain.com",
+      "address": "this.otherdomain.com"
+    }
+  ]
+}
